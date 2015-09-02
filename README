@@ -1,3 +1,5 @@
 1) Install with 'make'
 
 2) Generate test files with 'make test'
+
+See also related repositories like https://github.com/ztmr/erlguten and others for some documentation on the API.
